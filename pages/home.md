@@ -99,7 +99,7 @@ outro:
   align: center
   image: false
   heading: See your world more clearly
-  sub_heading: "You will make better decisions with the insight that comes from  in-depth analysis of the systems and data that surround your operations. Azimuth1 analysts and developers  are experts at solving mission critical needs using innovation, data analytics, and geospatial technologies. "
+  sub_heading: "You will make better decisions with the insight that comes from  in-depth analysis of the systems and data that surround your operations. Daybreak analysts and developers are experts at solving mission critical needs using innovation, data analytics, and geospatial technologies. "
   features:
     enabled: false
     list:
@@ -116,7 +116,7 @@ outro:
 posts:
   enabled: true
   heading: Latest Blog Posts
-  sub_heading: "Keep up with what Azimuth1 is doing around the community and the world."
+  sub_heading: "Keep up with what Daybreak is doing around the community and the world."
   limit: 3
   sort: "date"
   view_more_button_enabled: true

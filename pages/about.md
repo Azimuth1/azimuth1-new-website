@@ -86,7 +86,7 @@ We maintain active memberships and leadership roles in organizations that shape 
         <img src="/assets/img/team/steve-cooper-photo.jpg" class="about-team-img rounded-circle img-fluid m-0">
       </div>
        <div class="col-md-8">
-        <h3>Steve Cooper</h3> serves as a board advisor to Azimuth1 as well as a founding partner in Strativest,
+        <h3>Steve Cooper</h3> serves as a board advisor to Daybreak as well as a founding partner in Strativest,
         a firm focused on identifying emerging technologies applicable to homeland security, emergency response, and preparedness.
         Mr Cooper was appointed in 2003 to serve as the first CIO of the Department of Homeland Security, followed
         by CIO appointments at the Federal Aviation Administration, the US Department of Commerce, and the American Red Cross.
@@ -97,7 +97,7 @@ We maintain active memberships and leadership roles in organizations that shape 
         <img src="/assets/img/team/barb-ryan-photo.jpg" class="about-team-img rounded-circle img-fluid m-0">
       </div> 
         <div class="col-md-8">
-        <h3>Barbara Ryan</h3> serves as board advisor to Azimuth1 as well as the Ecological Sequestration Trust, the International
+        <h3>Barbara Ryan</h3> serves as board advisor to Daybreak as well as the Ecological Sequestration Trust, the International
         Centre for Earth Simulation, the ISRSE, the Jane Goodall Institute, and the World Geospatial Industry Council (WGIC).  Ms Ryan
         spent a career in public service at the US Geological Survey, the Nation's largest natural resource and civilian mapping agency.
         As Associate Director of Geography at USGS, Ms Ryan was responsible for making the global Landsat satellite imagery program and
@@ -111,7 +111,7 @@ We maintain active memberships and leadership roles in organizations that shape 
         <img src="/assets/img/team/tom-vetrano-photo.jpg" class="about-team-img rounded-circle img-fluid m-0">
       </div> 
         <div class="col-md-8">
-        <h3>Tom Vetrano</h3>serves as a board advisor to Azimuth1 as well as the Executive Advisory Council of New Mountain Capital,
+        <h3>Tom Vetrano</h3>serves as a board advisor to Daybreak as well as the Executive Advisory Council of New Mountain Capital,
          the Board of Directors of GEE Group, SmarterSorting, and Locus Fermentation Solutions. Mr Vetrano
          was Principal, Chief Operating Officer and Secretary at ENVIRON, presiding over a 20 year growth period
          and successful sale to Ramboll in 2014. Mr Vetrano then served as President and Managing Director of

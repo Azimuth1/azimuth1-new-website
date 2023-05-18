@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Amanda West joins the Azimuth1 team
+title: Amanda West joins the Daybreak team
 description: Amanda is a data scientist with experience in visualization, economics, and deep learning.
 date: 2021-07-18
 authors: ["Jason Dalton"]
@@ -11,7 +11,7 @@ image: "blog/assets/2021-07-17-welcome-amanda/header.png"
 categories: ["Team"]
 ---
 
-We're excited to welcome Amanda West to the Azimuth1 team! Amanda is a data scientist working out of
+We're excited to welcome Amanda West to the Daybreak team! Amanda is a data scientist working out of
 Boulder, Colorado and will be focusing on our public health and safety projects detecting fraud in
 medical device imports and registrations.
 

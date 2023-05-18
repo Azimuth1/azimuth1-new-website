@@ -1,15 +1,15 @@
 ---
 published: true
 layout: post
-title: Azimuth1 announces new Advisory Board
-description: Top leaders from geospatial, environmental, and public safety to serve as advisory board for Azimuth1.
+title: Daybreak announces new Advisory Board
+description: Top leaders from geospatial, environmental, and public safety to serve as advisory board for Daybreak.
 date: 2021-01-01
 authors: ["Jason Dalton"]
 folder: blog/assets
 thumbnail: "blog/assets/header.png"
 image: "blog/assets/header.png"
 ---
-Azimuth1 is proud to announce the formation of our Advisory Board. We are fortunate to have three Board members who bring
+Daybreak (formerly Azimuth1) is proud to announce the formation of our Advisory Board. We are fortunate to have three Board members who bring
 a wealth of experience and insight, and are committed to helping us achieve our goals.
 Our Advisory Board reflects our values and areas of expertise as well as bringing an outside perspective to our decision making.
 
@@ -25,7 +25,7 @@ Our Advisory Board reflects our values and areas of expertise as well as bringin
     <div class="row justify-content-center pt-20">
       <div class="col-sm"></div>
       <div class="col-6">
-        <h4>Steve Cooper</h4> serves as a board advisor to Azimuth1 as well as a founding partner in Strativest,
+        <h4>Steve Cooper</h4> serves as a board advisor to Daybreak as well as a founding partner in Strativest,
         a firm focused on identifying emerging technologies applicable to homeland security, emergency response, and preparedness.
         Mr Cooper was appointed in 2003 to serve as the first CIO of the Department of Homeland Security, followed
         by CIO appointments at the Federal Aviation Administration, the US Department of Commerce, and the American Red Cross.
@@ -38,7 +38,7 @@ Our Advisory Board reflects our values and areas of expertise as well as bringin
     <div class="row justify-content-center pt-20 d-flex flex-wrap align-items-center">
       <div class="col-sm"></div>
       <div class="col-6">
-        <h4>Barbara Ryan</h4> serves as board advisor to Azimuth1 as well as the Ecological Sequestration Trust, the International
+        <h4>Barbara Ryan</h4> serves as board advisor to Daybreak as well as the Ecological Sequestration Trust, the International
         Centre for Earth Simulation, the ISRSE, the Jane Goodall Institute, and the World Geospatial Industry Council (WGIC).  Ms Ryan
         spent a career in public service at the US Geological Survey, the Nation's largest natural resource and civilian mapping agency.
         As Associate Director of Geography at USGS, Ms Ryan was responsible for making the global Landsat satellite imagery program and
@@ -54,7 +54,7 @@ Our Advisory Board reflects our values and areas of expertise as well as bringin
     <div class="row justify-content-center pt-20">
       <div class="col-sm"></div>
       <div class="col-6">
-        <h4>Tom Vetrano</h4>serves as a board advisor to Azimuth1 as well as the Executive Advisory Council of New Mountain Capital,
+        <h4>Tom Vetrano</h4>serves as a board advisor to Daybreak as well as the Executive Advisory Council of New Mountain Capital,
          the Board of Directors of GEE Group, SmarterSorting, and Locus Fermentation Solutions. Mr Vetrano
          was Principal, Chief Operating Officer and Secretary at ENVIRON, presiding over a 20 year growth period
          and successful sale to Ramboll in 2014. Mr Vetrano then served as President and Managing Director of
@@ -72,5 +72,5 @@ Our Advisory Board reflects our values and areas of expertise as well as bringin
 On behalf of the company, I want to thank each Board member and say how excited we are to have you in our corner!
 
 Jason Dalton
-President, CEO
-Azimuth1
+Co-Founder, CTO
+Daybreak
