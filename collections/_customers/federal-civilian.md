@@ -1,6 +1,6 @@
 ---
 title: "Federal Civilian"
-description: "We provide open source and all-source intelligence analysis, collection support, and operations support."
+description: "We provide open source and all-source intelligence analysis, collection support, and operations support to FDA, CISA, and CDC."
 date: 2019-10-03
 weight: 3
 fa_icon: "fab fa-codepen"
