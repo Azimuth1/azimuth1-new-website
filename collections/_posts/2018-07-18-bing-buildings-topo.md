@@ -11,7 +11,7 @@ image: "blog/assets/2018-07-18-bing-buildings-topo/header.png"
 categories: ["Geospatial"]
 ---
 
-In our work with the Department of Homeland Security and dbS SAR, Azimuth1 is designing and building search and rescue software for first responders.  Part of that system is a custom topo map for SAR personnel to use to plan and carry out search tasks.  Recently Microsoft open sourced a large data set of building footprints that they are providing as Open Data.  [Read more here](https://blogs.bing.com/maps/2018-06/microsoft-releases-125-million-building-footprints-in-the-us-as-open-data)
+In our work with the Department of Homeland Security and dbS SAR, Daybreak is designing and building search and rescue software for first responders.  Part of that system is a custom topo map for SAR personnel to use to plan and carry out search tasks.  Recently Microsoft open sourced a large data set of building footprints that they are providing as Open Data.  [Read more here](https://blogs.bing.com/maps/2018-06/microsoft-releases-125-million-building-footprints-in-the-us-as-open-data)
 
 We quickly integrated that data into the TotalTopo maps for search and rescue.  The difference is very significant and we're very happy that we'll be conducting our first SAR exercise using the new maps in Coeur d'Alene ID this weekend.  Here's a before and after look at the difference it makes.  
 
