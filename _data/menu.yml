@@ -8,7 +8,7 @@ main:
       - name: "Geospatial Analytics"
         url: /capabilities/geospatial-analytics
       - name: "Analytical Application Development"
-        url: /capabilities/analytical-application-development
+        url: /capabilities/analytical-software-development
       - name: "Intelligence Analysis"
         url: /capabilities/intelligence-analysis
       - name: "Mission Support"
