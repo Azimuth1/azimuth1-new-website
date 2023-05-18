@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Azimuth1 welcomes Ryan Velazquez to our data science team
+title: Daybreak welcomes Ryan Velazquez to our data science team
 description: Growing our unique specialty in environmental data science.
 date: 2019-07-01
 authors: ["Jason Dalton"]
@@ -10,7 +10,7 @@ thumbnail: "blog/assets/2019-07-01-welcome-ryan/entrance.jpg"
 image: "blog/assets/2019-07-01-welcome-ryan/entrance.png"
 categories: ["Team"]
 ---
-We're happy to welcome Ryan Velazquez to the Azimuth1 team!  
+We're happy to welcome Ryan Velazquez to the Daybreak team!  
 
 ![topo1]({{site.url}}/{{page.folder}}/ryan-photo.jpg){:class="img-fluid" width="60%"}
 

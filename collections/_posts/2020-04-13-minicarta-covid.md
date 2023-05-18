@@ -1,14 +1,14 @@
 ---
 published: true
 layout: post
-title: Azimuth1 schedules early launch for MiniCarta app to support COVID response
+title: Daybreak schedules early launch for MiniCarta app to support COVID response
 description: Public Health officials and first responders are primary users.
 date: 2020-11-13
 authors: ["Jason Dalton"]
 folder: blog/assets/2020-04-13-minicarta-covid
 thumbnail: "blog/assets/2021-11-11-fateandtransport/header.png"
 image: "blog/assets/2021-11-11-fateandtransport/header.png"
-excerpt: 'Azimuth1 is set to launch a modified version of its MiniCarta team mapping mobile app this week to
+excerpt: 'Daybreak (formerly Azimuth1) is set to launch a modified version of its MiniCarta team mapping mobile app this week to
 support the needs of first responders and public safety officials collecting data on COVID-19 outbreak and
 response.'
 categories: ["Geospatial"]

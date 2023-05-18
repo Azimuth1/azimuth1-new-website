@@ -11,7 +11,7 @@ image: "blog/assets/2021-11-11-fateandtransport/header.png"
 categories: ["SAR","Events"]
 ---
 
-Two weeks ago, Azimuth1 supported search and rescue teams from across Virginia and North Carolina at the [Blue Ridge Parkway Search and Rescue Exercise (SAREX)](https://www.evensi.us/2016-blue-ridge-parkway-sarex-blue-ridge-music-center/170102646){:target="_blank"}, a simulated lost person search mission sponsored and run by the National Park Service. Read all about the experience in this account of the exercise by our team.
+Two weeks ago, Daybreak (formerly Azimuth1) supported search and rescue teams from across Virginia and North Carolina at the [Blue Ridge Parkway Search and Rescue Exercise (SAREX)](https://www.evensi.us/2016-blue-ridge-parkway-sarex-blue-ridge-music-center/170102646){:target="_blank"}, a simulated lost person search mission sponsored and run by the National Park Service. Read all about the experience in this account of the exercise by our team.
 
 ![SarSim]({{site.url}}/{{page.folder}}/SarSim.jpg)
 
