@@ -7,7 +7,7 @@ main:
         url: /capabilities/full-stack-data-science
       - name: "Geospatial Analytics"
         url: /capabilities/geospatial-analytics
-      - name: "Analytical Application Development"
+      - name: "Analytical Software Development"
         url: /capabilities/analytical-software-development
       - name: "Intelligence Analysis"
         url: /capabilities/intelligence-analysis
