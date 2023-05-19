@@ -27,36 +27,36 @@ Daybreak is a subcontract awardee or teammate on the following contract vehicles
  
 <div class="row justify-content-center align-items-center">
 <div class="col-6 col-lg-4 text-center mb-1 mt-1">
-<img class="my-0" src="http://nebula.wsimg.com/a3f054f82319f532ae0a03477a46979b?AccessKeyId=8818DF1482B341266805&disposition=0&alloworigin=1" alt="">
+<img class="my-0" src="assets/images/contracts/oasis.jpg" alt="">
 <p>OASIS SB Pools 1 and 3</p>
 </div>
 <div class="col-6 col-lg-4 text-center mb-1 mt-1">
-<img class="my-0" src="http://nebula.wsimg.com/582eee95312e407cd5fb9b2c4d71a24f?AccessKeyId=8818DF1482B341266805&disposition=0&alloworigin=1" alt="">
+<img class="my-0" src="assets/images/contracts/dia.png" alt="">
 <p>OASIS SB Pools 1 and 3</p>
 </div>
 <div class="col-6 col-lg-4 text-center mb-1 mt-1">
-<img class="my-0" src="http://nebula.wsimg.com/21e161c2975b00874513749f6e20a2ba?AccessKeyId=8818DF1482B341266805&disposition=0&alloworigin=1" alt="">
+<img class="my-0" src="assets/images/contracts/rs3.jpg" alt="">
 <p>OASIS SB Pools 1 and 3</p>
 </div>
 
 <div class="col-6 col-lg-4 text-center mb-1 mt-1">
-<img class="my-0" src="http://nebula.wsimg.com/bfdd38bcd142404eef246609436b88da?AccessKeyId=8818DF1482B341266805&disposition=0&alloworigin=1" alt="">
+<img class="my-0" src="assets/images/contracts/defense_logistics_agency.png" alt="">
 <p>OASIS SB Pools 1 and 3</p>
 </div>
 <div class="col-6 col-lg-4 text-center mb-1 mt-1">
-<img class="my-0" src="http://nebula.wsimg.com/d72e61882666c403760e30d377ab3988?AccessKeyId=8818DF1482B341266805&disposition=0&alloworigin=1" alt="">
+<img class="my-0" src="assets/images/contracts/gsa.png" alt="">
 <p>OASIS SB Pools 1 and 3</p>
 </div>
 <div class="col-6 col-lg-4 text-center mb-1 mt-1">
-<img class="my-0" src="http://nebula.wsimg.com/cafe7138bd92d70481a9189782c1d2ba?AccessKeyId=8818DF1482B341266805&disposition=0&alloworigin=1" alt="">
+<img class="my-0" src="assets/images/contracts/PMSS3.png" alt="">
 <p>OASIS SB Pools 1 and 3</p>
 </div>
 <div class="col-6 col-lg-4 text-center mb-1 mt-1">
-<img class="my-0" src="http://nebula.wsimg.com/80398c24a98e79dd731d32e72d7e961d?AccessKeyId=8818DF1482B341266805&disposition=0&alloworigin=1" alt="">
+<img class="my-0" src="assets/images/contracts/homeland_security.png" alt="">
 <p>OASIS SB Pools 1 and 3</p>
 </div>
 <div class="col-6 col-lg-4 text-center mb-1 mt-1">
-<img class="my-0" src="http://nebula.wsimg.com/9f12d868b4a7a0a7e753190650d4c4ca?AccessKeyId=8818DF1482B341266805&disposition=0&alloworigin=1" alt="">
+<img class="my-0" src="assets/images/contracts/ites-3s.png" alt="">
 <p>OASIS SB Pools 1 and 3</p>
 </div>
 

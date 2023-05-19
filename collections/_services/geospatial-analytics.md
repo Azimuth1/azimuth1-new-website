@@ -5,8 +5,8 @@ date: 2019-10-03
 weight: 2
 fa_icon: "fab fa-codepen"
 icon: "assets/img/icons/map.svg"
-thumbnail: "https://source.unsplash.com/_SFJhRPzJHs/640x360"
-image: "https://source.unsplash.com//_SFJhRPzJHs/640x360"
+thumbnail: "assets/images/capabilities/nyc_night.jpg"
+image: "assets/images/capabilities/nyc_night.jpg"
 permalink: "/capabilities/geospatial-analytics"
 ---
 
