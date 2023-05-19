@@ -7,3 +7,6 @@ node_modules/
 .sass-cache
 .jekyll-cache
 search.json
+.DS_Store
+assets/.DS_Store
+assets/images/.DS_Store

@@ -5,9 +5,7 @@ date: 2019-10-03
 weight: 4
 fa_icon: "fab fa-codepen"
 icon: "assets/img/icons/solution.svg"
-thumbnail: "https://source.unsplash.com/B-x4VaIriRc/640x360"
-image: "https://source.unsplash.com/B-x4VaIriRc/640x360"
+thumbnail: "assets/images/services/commercial.jpg"
+image: "assets/images/services/commercial.jpg"
 permalink: "/customers/commercial"
 ---
-
- 
