@@ -22,28 +22,24 @@ hero:
         external: true
         fa_icon: false
         size: large
-        
+
 ---
 
-Daybreak's sole mission is to support the federal agencies that are safeguarding our nation's security, safety and health, by bringing dedicated, highly experienced experts in data analytics, artificial intelligence and other advanced information technology, and intelligence analysis. Our team brings experience in national security federal agencies and their operating environments together with leading-edge technologies and techniques. We attract the best employees, create the best place for them to work, empower and engage them to succeed, and share their passion for the customer's mission. 
+Daybreak's sole mission is to support the federal agencies that are safeguarding our nation's security, safety and health, by bringing dedicated, highly experienced experts in data analytics, artificial intelligence and other advanced information technology, and intelligence analysis. Our team brings experience in national security federal agencies and their operating environments together with leading-edge technologies and techniques. We attract the best employees, create the best place for them to work, empower and engage them to succeed, and share their passion for the customer's mission.
 
 Daybreak is a fast moving team of data analytics and computer science experts on a mission to bring specialty data analysis applications to environmental, public safety, and national security challenges. Our products are used by Fortune 500 companies, government agencies, and emergency first responders to make better decisions faster.
 
 The tools of our trade are typically statistical learning methods, geospatial data modeling and GIS, and interactive data visualization on the web leveraging open source software throughout our process.
 
-Our philosophy is that we should spend our efforts customizing tools and methods to suit particular industries rather than build generic tools to try to suit everyone. We recognize that each industry has its own terminology, practices, assumptions, and way of approaching a problem. In order to solve a problem it helps to engage fully with those that are knee deep in it, so we jump in with our customers and try to build a solution that fits that industry rather than build one solution for everyone. We believe your industry deserves its own tailored fit.
+
 
 ## Groups And Affiliations
 We maintain active memberships and leadership roles in organizations that shape the future of our industry.
 
- 
+
 <div class="row justify-content-center align-items-center">
 <div class="col-4 col-lg-2 text-center mb-1 mt-1">
 <a href="https://www.informs.org/"  target="_blank"><img class="my-0" src="/assets/img/associations/informs_logo.png" alt=""></a>
-</div>
-
-<div class="col-4 col-lg-2 text-center mb-1 mt-1">
-<a href="https://www.datacommunitydc.org/data-science-dc"  target="_blank"><img class="my-0" src="/assets/img/associations/dsdc_logo.png" alt=""></a>
 </div>
 
 <div class="col-4 col-lg-2 text-center mb-1 mt-1">
@@ -56,17 +52,6 @@ We maintain active memberships and leadership roles in organizations that shape 
 
 <div class="col-4 col-lg-2 text-center mb-1 mt-1">
 <a href="https://www.nvtc.org/"  target="_blank"><img class="my-0" src="/assets/img/associations/nvtc_logo.png" alt=""></a>
-</div>
-
-<div class="col-4 col-lg-2 text-center mb-1 mt-1">
-
-<a href="https://www.secaf.org/"  target="_blank"><img class="my-0" src="/assets/img/associations/secaf_logo.png" alt=""></a>
-</div>
-<div class="col-4 col-lg-2 text-center mb-1 mt-1">
-<a href="https://www.vistage.com/"  target="_blank"><img class="my-0" src="/assets/img/associations/vistage_logo.png" alt=""></a>
-</div>
-<div class="col-4 col-lg-2 text-center mb-1 mt-1">
-<a href="https://cartogis.org/"  target="_blank"><img class="my-0" src="/assets/img/associations/cagis_logo.png" alt=""></a>
 </div>
 
 </div>
@@ -95,7 +80,7 @@ We maintain active memberships and leadership roles in organizations that shape 
     <div class="row justify-content-center pt-4 d-flex flex-wrap align-items-center">     
       <div class="col-md-4 pb-4">
         <img src="/assets/img/team/barb-ryan-photo.jpg" class="about-team-img rounded-circle img-fluid m-0">
-      </div> 
+      </div>
         <div class="col-md-8">
         <h3>Barbara Ryan</h3> serves as board advisor to Daybreak as well as the Ecological Sequestration Trust, the International
         Centre for Earth Simulation, the ISRSE, the Jane Goodall Institute, and the World Geospatial Industry Council (WGIC).  Ms Ryan
@@ -106,10 +91,10 @@ We maintain active memberships and leadership roles in organizations that shape 
         planning, energy, health, and water resources.
       </div>    
     </div>
-    <div class="row justify-content-center pt-4"> 
+    <div class="row justify-content-center pt-4">
       <div class="col-md-4  pb-4">
         <img src="/assets/img/team/tom-vetrano-photo.jpg" class="about-team-img rounded-circle img-fluid m-0">
-      </div> 
+      </div>
         <div class="col-md-8">
         <h3>Tom Vetrano</h3>serves as a board advisor to Daybreak as well as the Executive Advisory Council of New Mountain Capital,
          the Board of Directors of GEE Group, SmarterSorting, and Locus Fermentation Solutions. Mr Vetrano
@@ -120,6 +105,3 @@ We maintain active memberships and leadership roles in organizations that shape 
     </div>
   </div>
 </section>
-
-               
-
