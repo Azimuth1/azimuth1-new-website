@@ -1,7 +1,7 @@
 ---
 title: "Commercial"
-description: "We provide an eco-system of experts from government and industry to support mission-critical functions at national security agencies.  "
-date: 2019-10-03
+description: "We provide an eco-system of experts in leveraging data to produce business-ready insights.  Our team applies machine learning, data engineering, the latest AI systems, and powerful data visualization to augment business operations and planning to achieve greater business results. "
+date: 2023-02-03
 weight: 4
 fa_icon: "fab fa-codepen"
 icon: "assets/img/icons/solution.svg"
