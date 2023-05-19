@@ -11,7 +11,7 @@ date: 2019-10-03
 weight: 1
 fa_icon: "fab fa-codepen"
 icon: "assets/img/icons/machinelearning.svg"
-thumbnail: "https://source.unsplash.com/11KDtiUWRq4/640x360"
-image: "https://source.unsplash.com/11KDtiUWRq4/640x360"
+thumbnail: "assets/img/services/defense.jpg"
+image: "assets/img/services/defense.jpg"
 permalink: "/customers/dod"
 ---
