@@ -5,7 +5,7 @@ date: 2019-10-03
 weight: 3
 fa_icon: "fab fa-codepen"
 icon: "assets/img/icons/computervision.svg"
-thumbnail: "assets/img/services/fecciv.jpg"
-image: "assets/img/services/fecciv.jpg"
+thumbnail: "assets/images/services/fecciv.jpg"
+image: "assets/images/services/fecciv.jpg"
 permalink: "/customers/federal-civilian"
 ---
