@@ -25,7 +25,7 @@ hero:
 
 ---
 
-Daybreak's sole mission is to support the federal agencies that are safeguarding our nation's security, safety and health, by bringing dedicated, highly experienced experts in data analytics, artificial intelligence and other advanced information technology, and intelligence analysis. Our team brings experience in national security federal agencies and their operating environments together with leading-edge technologies and techniques. We attract the best employees, create the best place for them to work, empower and engage them to succeed, and share their passion for the customer's mission.
+Daybreak's sole mission is to support the agencies that are safeguarding our nation's security, safety and health, by bringing dedicated, highly experienced experts in data analytics, artificial intelligence and other advanced information technology, and intelligence analysis. Our team brings experience in national security federal agencies and their operating environments together with leading-edge technologies and techniques. We attract the best employees, create the best place for them to work, empower and engage them to succeed, and share their passion for the customer's mission.
 
 Daybreak is a fast moving team of data analytics and computer science experts on a mission to bring specialty data analysis applications to environmental, public safety, and national security challenges. Our products are used by Fortune 500 companies, government agencies, and emergency first responders to make better decisions faster.
 
