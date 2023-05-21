@@ -1,5 +1,5 @@
 ---
-title: "Defense Market Services"
+title: "Defense Services"
 description: "Daybreak delivers innovation, advanced analytics, together with expertise in Defense operational and mission imperatives.
 <br>
 We hyper-accelerate understanding and decisional quality though data analysis, artificial
@@ -11,7 +11,7 @@ date: 2019-10-03
 weight: 1
 fa_icon: "fab fa-codepen"
 icon: "assets/img/icons/machinelearning.svg"
-thumbnail: "assets/images/customers/plane-sky.png"
-image: "assets/images/customers/plane-sky.png"
+thumbnail: "assets/images/services/defense_air.jpg"
+image: "assets/images/services/defense_air.jpg"
 permalink: "/customers/dod"
 ---

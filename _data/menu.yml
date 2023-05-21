@@ -11,6 +11,8 @@ main:
         url: /capabilities/analytical-software-development
       - name: "Intelligence Analysis"
         url: /capabilities/intelligence-analysis
+      - name: "Operations Research Optimization"
+        url: /capabilities/or-optimization
       - name: "Mission Support"
         url: /capabilities/mission-support
   - name: Customers
