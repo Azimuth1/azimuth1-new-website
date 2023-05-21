@@ -13,7 +13,7 @@ hero:
   text_color: "#002868"
   background_color: "#c5ccd5" #Daybreak Primary
   background_gradient: false
-  background_image: "https://source.unsplash.com/Lks7vei-eAg/1600x560"
+  background_image: "assets/images/home/unsplash-Lks7vei-eAg.jpeg"
   background_image_blend_mode: "overlay" # "overlay", "multiple", "screen"
   fullscreen_mobile: true
   fullscreen_desktop: true
@@ -52,7 +52,7 @@ services:
 intro:
   enabled: true
   align: left
-  image: "https://source.unsplash.com/GpNOhig3LSU/640x800"
+  image: "assets/images/home/map_with_compass.jpg"
   heading: "About Us"
   sub_heading: "Daybreak’s sole mission is to support the federal agencies that are safeguarding our nation’s security, safety and health, by bringing dedicated, highly experienced experts in data analytics, artificial intelligence and other advanced information technology, and intelligence analysis. Our team brings experience in national security federal agencies and their operating environments together with leading-edge technologies and techniques. We attract the best employees, create the best place for them to work, empower and engage them to succeed, and share their passion for the customer’s mission.</br>
 

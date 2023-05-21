@@ -5,8 +5,8 @@ date: 2019-10-03
 weight: 3
 fa_icon: "fab fa-codepen"
 icon: "assets/img/icons/design.svg"
-thumbnail: "https://source.unsplash.com/842ofHC6MaI/640x360"
-image: "https://source.unsplash.com/842ofHC6MaI/640x360"
+thumbnail: "assets/images/capabilities/toy_pieces_on_board.jpg"
+image: "assets/images/capabilities/toy_pieces_on_board.jpg"
 permalink: "/capabilities/analytical-software-development"
 ---
 

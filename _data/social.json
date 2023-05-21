@@ -1,27 +1,7 @@
 [
   {
-    "title": "Twitter",
-    "fa_icon": "fab fa-twitter",
-    "url": "https://www.zerostatic.io"
-  },
-  {
-    "title": "Github",
-    "fa_icon": "fab fa-github",
-    "url": "https://github.com/Azimuth1"
-  },
-  {
-    "title": "Slack",
-    "fa_icon": "fab fa-slack",
-    "url": "https://www.zerostatic.io"
-  },
-  {
     "title": "LinkedIn",
     "fa_icon": "fab fa-linkedin",
     "url": "https://www.linkedin.com/company/daybreakllc/"
-  },
-  {
-    "title": "Instagram",
-    "fa_icon": "fab fa-instagram",
-    "url": "https://www.zerostatic.io"
   }
 ]
