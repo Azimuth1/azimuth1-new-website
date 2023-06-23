@@ -1,7 +1,7 @@
 [
   {
     "title": "DHS",
-    "image": "assets/img/clients/logo-dhs.png",
+    "image": "assets/images/customers/dhs-logo_1_720.png",
     "url": "#"
   },
   {
@@ -15,8 +15,8 @@
     "url": "#"
   },
   {
-    "title": "doe",
-    "image": "assets/img/clients/logo-doe.jpg",
+    "title": "fda",
+    "image": "assets/images/customers/fda.jpg",
     "url": "#"
   },
   {
@@ -26,7 +26,17 @@
   },
   {
     "title": "NGA",
-    "image": "assets/img/clients/logo-nga-100.png",
+    "image": "assets/images/customers/nga_logo_720.jpg",
+    "url": "#"
+  },
+  {
+    "title": "ccoe",
+    "image": "assets/images/customers/usa_ccoe_720.jpg",
+    "url": "#"
+  },
+  {
+    "title": "centcom",
+    "image": "assets/images/customers/uscentcom_720.png",
     "url": "#"
   }
 ]

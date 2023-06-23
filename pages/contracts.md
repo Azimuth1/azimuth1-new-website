@@ -22,9 +22,9 @@ hero:
         fa_icon: false
         size: large   
 ---
+
 Daybreak is a subcontract awardee or teammate on the following contract vehicles:  
 
- 
 <div class="row justify-content-center align-items-center">
 <div class="col-6 col-lg-4 text-center mb-1 mt-1">
 <img class="my-0" src="assets/images/contracts/oasis.jpg" alt="">
@@ -38,30 +38,25 @@ Daybreak is a subcontract awardee or teammate on the following contract vehicles
 <img class="my-0" src="assets/images/contracts/rs3.jpg" alt="">
 <p>OASIS SB Pools 1 and 3</p>
 </div>
-
 <div class="col-6 col-lg-4 text-center mb-1 mt-1">
 <img class="my-0" src="assets/images/contracts/defense_logistics_agency.png" alt="">
-<p>OASIS SB Pools 1 and 3</p>
+<p>DLA JETS</p>
 </div>
 <div class="col-6 col-lg-4 text-center mb-1 mt-1">
 <img class="my-0" src="assets/images/contracts/gsa.png" alt="">
-<p>OASIS SB Pools 1 and 3</p>
+<p>GSA FirstSource III</p>
 </div>
 <div class="col-6 col-lg-4 text-center mb-1 mt-1">
 <img class="my-0" src="assets/images/contracts/PMSS3.png" alt="">
-<p>OASIS SB Pools 1 and 3</p>
+<p> </p>
 </div>
 <div class="col-6 col-lg-4 text-center mb-1 mt-1">
 <img class="my-0" src="assets/images/contracts/homeland_security.png" alt="">
-<p>OASIS SB Pools 1 and 3</p>
+<p> </p>
 </div>
 <div class="col-6 col-lg-4 text-center mb-1 mt-1">
 <img class="my-0" src="assets/images/contracts/ites-3s.png" alt="">
-<p>OASIS SB Pools 1 and 3</p>
+<p> </p>
 </div>
 
-
 </div>
-
-               
-
