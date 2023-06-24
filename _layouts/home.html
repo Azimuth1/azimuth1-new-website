@@ -82,7 +82,7 @@ body_classes: page-home
 
 {% if page.partners.enabled %}
   {% assign partners = site.data.partners %}
-  {% assign partners_limit = page.partners.limit | default: 6 %}
+  {% assign partners_limit = page.partners.limit | default: 4 %}
   {% assign partners_sort = page.partners.sort | default: 'weight' %}
   {% if partners.size > 0 %}
     <div class="strip strip-base partners">
