@@ -13,7 +13,7 @@ hero:
   text_color: "#002868"
   background_color: "#c5ccd5" #Daybreak Primary
   background_gradient: false
-  background_image: "assets/images/home/unsplash-Lks7vei-eAg.jpeg"
+  background_image: "media/daybreakshowcase1080.mov" #"assets/images/home/unsplash-Lks7vei-eAg.jpeg"
   background_image_blend_mode: "overlay" # "overlay", "multiple", "screen"
   fullscreen_mobile: true
   fullscreen_desktop: true
