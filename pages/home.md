@@ -8,8 +8,8 @@ meta_title: Daybreak - Mission Focused
 
 hero:
   enabled: true
-  heading: "Mission Focused"
-  sub_heading: "Daybreak brings insights through the science of better decisions "
+  heading: ""
+  sub_heading: ""
   text_color: "#002868"
   background_color: "#c5ccd5" #Daybreak Primary
   background_gradient: false
@@ -19,7 +19,7 @@ hero:
   fullscreen_desktop: true
   height: "700px" # "700px", false
   buttons:
-    enabled: true
+    enabled: false
     list:
       - text: "Learn about Daybreak"
         url: "/about"
