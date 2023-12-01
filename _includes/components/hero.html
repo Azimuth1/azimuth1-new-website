@@ -35,8 +35,17 @@
   {% if height %}height: {{ height }};{% endif %}
 {% endcapture %}
 
-<div class="strip hero {{ fullscreen }} {{ gradient }}" style="{{ bg_color }} {{ bg_height }}">
-  <div class="hero-background-image" style="{{ bg_image }}"></div>
+<div class="strip hero {{ fullscreen }} {{ gradient }}" style="{{ bg_height }}">
+  <!-- <div class="hero-background-image" style="{{ bg_image }}"></div> -->
+  <video class="hero-background-image"
+    loop
+    muted
+    autoplay
+    preload="auto">
+    <source src="{{ background_image }}.mov" type="video/quicktime">
+    <source src="{{ background_image }}.mp4" type="video/mp4">
+  </video>
+
   {% if divider %}{% include blocks/divider.html %}{% endif %}
   <div class="container {% if divider %}pb-10{% endif %}">
     <div class="row align-items-center">
