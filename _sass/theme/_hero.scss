@@ -4,7 +4,7 @@
   align-content: center;
   align-items: center;
   flex-direction: row;
-  background-color: var(--color-base-400);
+  background-color: #000;
   &.hero-gradient {
     background-image: linear-gradient(to right, $gradient-1, $gradient-2);
   }
