@@ -13,11 +13,11 @@ hero:
   text_color: "#002868"
   background_color: "#c5ccd5" #Daybreak Primary
   background_gradient: false
-  background_image: "/assets/images/logo/daybreakshowcase1080"
+  background_image: "/assets/images/logo/daybreakshowcase720"
   background_image_blend_mode: "overlay" # "overlay", "multiple", "screen"
   fullscreen_mobile: true
   fullscreen_desktop: true
-  height: "700px" # "700px", false
+  height: "100%" # "700px", false
   buttons:
     enabled: false
     list:
