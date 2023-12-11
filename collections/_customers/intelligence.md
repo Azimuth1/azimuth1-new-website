@@ -8,7 +8,7 @@ We are an employee-centric company, and our ability to attract, retain, delight,
 date: 2023-05-03
 weight: 2
 fa_icon: "fab fa-codepen"
-icon: "assets/img/icons/map.svg"
+# icon: "assets/img/icons/map.svg"
 thumbnail: "assets/images/customers/intel.jpg"
 image: "assets/images/customers/intel.jpg"
 permalink: "/customers/intelligence"

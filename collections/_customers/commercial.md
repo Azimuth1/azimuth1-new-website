@@ -4,7 +4,7 @@ description: "We provide an eco-system of experts in leveraging data to produce 
 date: 2023-02-03
 weight: 4
 fa_icon: "fab fa-codepen"
-icon: "assets/img/icons/solution.svg"
+# icon: "assets/img/icons/solution.svg"
 thumbnail: "assets/images/services/commercial.jpg"
 image: "assets/images/services/commercial.jpg"
 permalink: "/customers/commercial"
