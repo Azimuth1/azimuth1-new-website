@@ -4,7 +4,7 @@ description: "We use the best practice CRISP-DM method for investigating hard pr
 date: 2019-10-03
 weight: 1
 fa_icon: "fab fa-codepen"
-icon: "assets/img/icons/machinelearning.svg"
+# icon: "assets/img/icons/machinelearning.svg"
 thumbnail: "assets/images/capabilities/paper_charts_next_to_laptop.jpg"
 image: "assets/images/capabilities/paper_charts_next_to_laptop.jpg"
 permalink: "/capabilities/full-stack-data-science"
@@ -32,4 +32,4 @@ R is a popular language for statistical computing and graphics. It provides a va
 
 Python, on the other hand, is a versatile language that has gained significant traction in the data science community. It offers a rich ecosystem of libraries and frameworks, such as NumPy, Pandas, and scikit-learn, which enable efficient data processing, analysis, and machine learning tasks. Python's versatility also extends to data engineering tasks, where it can be used for data ingestion, data transformation, and building data pipelines.
 
-The combination of the CRISP-DM approach with powerful analytic tools, such as Python and R, enables the Daybreak team to understand business needs and generate meaningful solutions. Our full stack data science abilities are crucial to our success. 
+The combination of the CRISP-DM approach with powerful analytic tools, such as Python and R, enables the Daybreak team to understand business needs and generate meaningful solutions. Our full stack data science abilities are crucial to our success.
