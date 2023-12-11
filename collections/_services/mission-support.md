@@ -4,7 +4,7 @@ description: "We provide an eco-system of experts from government and industry t
 date: 2019-10-03
 weight: 5
 fa_icon: "fab fa-codepen"
-icon: "assets/img/icons/solution.svg"
+# icon: "assets/img/icons/solution.svg"
 thumbnail: "assets/images/capabilities/smart_guy_thinking_hard.jpg"
 image: "assets/images/capabilities/smart_guy_thinking_hard.jpg"
 permalink: "/capabilities/mission-support"

@@ -4,7 +4,7 @@ description: "We provide open source and all-source intelligence analysis, colle
 date: 2019-10-03
 weight: 4
 fa_icon: "fab fa-codepen"
-icon: "assets/img/icons/computervision.svg"
+# icon: "assets/img/icons/computervision.svg"
 thumbnail: "assets/images/capabilities/corkboard_with_clues.jpg"
 image: "assets/images/capabilities/corkboard_with_clues.jpg"
 permalink: "/capabilities/intelligence-analysis"

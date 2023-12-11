@@ -4,7 +4,7 @@ description: "Our expertise in optimization can be harnessed to improve business
 date: 2019-10-03
 weight: 5
 fa_icon: "fab fa-codepen"
-icon: "assets/img/icons/solution.svg"
+# icon: "assets/img/icons/solution.svg"
 thumbnail: "https://source.unsplash.com/B-x4VaIriRc/640x360"
 image: "https://source.unsplash.com/B-x4VaIriRc/640x360"
 permalink: "/capabilities/or-optimization"

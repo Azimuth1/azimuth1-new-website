@@ -4,7 +4,7 @@ description: "The power of GIS combined with machine learning and analytics tech
 date: 2019-10-03
 weight: 2
 fa_icon: "fab fa-codepen"
-icon: "assets/img/icons/map.svg"
+# icon: "assets/img/icons/map.svg"
 thumbnail: "assets/images/capabilities/nyc_night.jpg"
 image: "assets/images/capabilities/nyc_night.jpg"
 permalink: "/capabilities/geospatial-analytics"
